@@ -2,6 +2,7 @@ class Main {
 // shiny happy people laughing ☀️
   public static void main(String[] args) {
    Pessoa pessoa = new Pessoa();
+    
     // settando os atributos
     pessoa.setNome("Paulo");
     pessoa.setIdade(25);
